@@ -1,0 +1,5 @@
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.Models\bin\Debug\PostsCategories.Models.dll
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.Models\bin\Debug\PostsCategories.Models.pdb
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.Models\obj\Debug\PostsCategories.Models.csprojResolveAssemblyReference.cache
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.Models\obj\Debug\PostsCategories.Models.dll
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.Models\obj\Debug\PostsCategories.Models.pdb

@@ -1,0 +1,10 @@
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\bin\Debug\PostsCategories.DataLayer.dll.config
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\bin\Debug\PostsCategories.DataLayer.dll
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\bin\Debug\PostsCategories.DataLayer.pdb
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\bin\Debug\EntityFramework.dll
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\bin\Debug\PostsCategories.Models.dll
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\bin\Debug\PostsCategories.Models.pdb
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\bin\Debug\EntityFramework.xml
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\obj\Debug\PostsCategories.DataLayer.csprojResolveAssemblyReference.cache
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\obj\Debug\PostsCategories.DataLayer.dll
+E:\Projects\PostsCategoriesBaseSystem\PostsCategories.DataLayer\obj\Debug\PostsCategories.DataLayer.pdb
